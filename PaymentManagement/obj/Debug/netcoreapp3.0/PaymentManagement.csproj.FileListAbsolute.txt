@@ -1,0 +1,78 @@
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.exe
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.deps.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.runtimeconfig.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.runtimeconfig.dev.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\PaymentManagement.pdb
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\staticwebassets\PaymentManagement.StaticWebAssets.Manifest.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\staticwebassets\PaymentManagement.StaticWebAssets.xml
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.AssemblyInfoInputs.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.AssemblyInfo.cs
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.RazorTargetAssemblyInfo.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.csproj.CopyComplete
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.pdb
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.csprojAssemblyReference.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\PaymentManagement\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.pdb
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.csprojAssemblyReference.cache
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.AssemblyInfoInputs.cache
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.AssemblyInfo.cs
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.csproj.CoreCompileInputs.cache
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.dll
+D:\Aneela Development\MicroServiceOne\PaymentManagement\obj\Debug\netcoreapp3.0\PaymentManagement.pdb

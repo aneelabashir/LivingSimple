@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dqb6hyj6uvkMd+faifi8CWfpXgvouHhZY0tYp8++RxIipBAj+6o4KgHz+GplLezxZSWXlh4/WmFq26hARSkR3w==",
+  "success": true,
+  "projectFilePath": "D:\\Aneela Development\\MicroServiceOne\\Plain.RabbitMQ\\Plain.RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\aneela.bashir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

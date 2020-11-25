@@ -1,0 +1,17 @@
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.deps.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.pdb
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.csprojAssemblyReference.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.AssemblyInfoInputs.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.AssemblyInfo.cs
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.dll
+D:\TEST APPS\.NET Tests\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.pdb
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.deps.json
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.dll
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\bin\Debug\netcoreapp3.0\Plain.RabbitMQ.pdb
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.AssemblyInfoInputs.cache
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.AssemblyInfo.cs
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.dll
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.pdb
+D:\Aneela Development\MicroServiceOne\Plain.RabbitMQ\obj\Debug\netcoreapp3.0\Plain.RabbitMQ.csprojAssemblyReference.cache

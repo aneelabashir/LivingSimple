@@ -1,0 +1,25 @@
+Need to study: 
+	RabbitMQ/MassTransit
+	API Gateway (Ocelote)
+	API testing
+
+choudhurynirjhar/plain-rabbitmq 
+
+study message patterns:
+	- event driven state machines
+	- sagas
+	- message consumers
+	- distributed transactions
+
+
+-- rabbitMQ protocol
+	AMQP - Advanced Message Queuing Protocol
+	server connects with rabbitMQ via a connection
+	-- within the connection there are one or more channels which allow concurrency
+	-- Producer/Publisher -> Exchange -> Queue -> Consumer/Subscriber 
+		-> sends back ACK upon which message is deleted from queue
+
+
+-- deadletter queue 
+
+-- clustering

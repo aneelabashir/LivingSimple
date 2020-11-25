@@ -1,0 +1,9 @@
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\bin\Debug\netcoreapp3.0\BalanceManagement.exe
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\obj\Debug\netcoreapp3.0\staticwebassets\BalanceManagement.StaticWebAssets.Manifest.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\obj\Debug\netcoreapp3.0\staticwebassets\BalanceManagement.StaticWebAssets.xml
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\obj\Debug\netcoreapp3.0\BalanceManagement.AssemblyInfoInputs.cache
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\obj\Debug\netcoreapp3.0\BalanceManagement.AssemblyInfo.cs
+D:\TEST APPS\.NET Tests\MicroServiceOne\BalanceManagement\obj\Debug\netcoreapp3.0\BalanceManagement.RazorTargetAssemblyInfo.cache
